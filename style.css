@@ -1,3 +1,12 @@
-body { background-color: lightgreen; }
-h1   { color: green; }
-li  {color: green;}
+body { background-color: rgb(188, 240, 188); }
+h1   { color: rgb(1, 66, 1); 
+       text-align: center;
+       text-transform: uppercase}
+li   {color: rgb(1, 66, 1);}
+h3   { color:rgb(255, 255, 255)}
+p    {color: rgb(255, 255, 255) }
+
+
+
+
+
