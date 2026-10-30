@@ -1,12 +1,9 @@
-body { background-color: rgb(188, 240, 188); }
+body { background-color: rgb(198, 250, 185); }
 h1   { color: rgb(1, 66, 1); 
        text-align: center;
        text-transform: uppercase}
 li   {color: rgb(1, 66, 1);}
-h3   { color:rgb(255, 255, 255)}
-p    {color: rgb(255, 255, 255) }
-
-
-
-
-
+h3   {color:rgb(1, 66, 1);}
+p {colr: rgb(1, 66, 1);}
+.titolo {text-align: center; padding: 30px; background-color:rgb(255, 255, 255);}
+.laterale{text-align:left;  width: 300px; background-color: rgb(255, 255, 255);}
