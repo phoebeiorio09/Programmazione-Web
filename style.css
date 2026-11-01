@@ -4,6 +4,8 @@ h1   { color: rgb(1, 66, 1);
        text-transform: uppercase}
 li   {color: rgb(1, 66, 1);}
 h3   {color:rgb(1, 66, 1);}
-p {colr: rgb(1, 66, 1);}
-.titolo {text-align: center; padding: 30px; background-color:rgb(255, 255, 255);}
-.laterale{text-align:left;  width: 300px; background-color: rgb(255, 255, 255);}
+p {color: rgb(1, 66, 1);}
+.titolo {text-align: center; padding: 30px; background-color:rgb(255, 255, 255);margin: 10px;}
+.laterale{text-align:left;  width: 300px; background-color: rgb(255, 255, 255);flex-shrink: 0; margin: 10px; padding: 15px;}
+.lateraledestra { flex:1 ;margin: 10px; padding: 20px;background-color: rgb(255, 255, 255);}
+.destra-sinistra{display: flex; gap: 20px; padding: 0 20px 20px 20px;}
