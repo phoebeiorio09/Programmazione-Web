@@ -13,3 +13,4 @@ p {color: rgb(1, 66, 1);}
 .scheda-titolo{color: rgb(1, 66, 1); text-align: center; text-transform: uppercase}
 .riga{display: flex;justify-content: center; gap: 10px;}
 .scheda2{ margin: 10px;padding: 20px;background-color: rgb(198, 250, 185);border: 1px solid #d8d1c2; border-radius: 10px;}
+button {margin-top: 18px;padding: 10px 20px;background-color: #ffffff;color: rgb(1, 66, 1);border: 1;border-radius: 6px;}
